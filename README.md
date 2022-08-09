@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" width="40%" height="40%" src="https://github.com/acmhitk/acmhitk.github.io/blob/main/ACM%20Student%20Chapters/ACM%20Student%20Chapter%202021-22/assets/img/logo.png?raw=true">
+<img align="left" width="40%" height="40%" src="https://github.com/acmhitk/acmhitk.github.io/blob/main/assets/img/Welcome.png?raw=true">
 
 ## Find us around the web 🌎 
 
