@@ -18,7 +18,7 @@ ACM brings together computing educators, researchers, and professionals to inspi
 To know more about ACM Student Chapters, please visit ACM Student Chapters
 
 
-## ACM at a glance
+## ACM HITK Student Chapter at a glance
 [![trophy](https://github-profile-trophy.vercel.app/?username=acmhitk&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=acmhitk&show_icons=true&theme=radical) 
